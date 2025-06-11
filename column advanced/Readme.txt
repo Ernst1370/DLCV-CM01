@@ -16,4 +16,5 @@ submission.csv
 
 可以調predict.py裡43行的閾值
 
-
+dataset請見以下連結/ALL/資料夾下
+https://www.space.ntu.edu.tw/navigate/a/#/s/44916B672EF545BF95E5C9262FEDF5A16BL
